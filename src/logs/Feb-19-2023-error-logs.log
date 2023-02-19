@@ -1,0 +1,3 @@
+[31merror[39m: Feb-19-2023 13:14:24: [31m	Something went wrong. Please try again.[39m
+[31merror[39m: Feb-19-2023 13:15:23: [31m	Email already exists[39m
+[31merror[39m: Feb-19-2023 17:51:10: [31m	E11000 duplicate key error collection: crud_applications.contacts index: number_1 dup key: { number: "8800765874" }[39m
